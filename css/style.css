@@ -43,6 +43,9 @@ body {
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
 }
+.risize-grotta{
+  background-position: top 20% center !important;
+}
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
