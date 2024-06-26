@@ -47,6 +47,9 @@ body {
   .container {
     width: 1170px;
   }
+  .risize-grotta{
+    background-position: top 20% center !important;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -54,12 +57,18 @@ body {
     font-size: 17px;
     font-style: 0.94444rem;
   }
+  .risize-grotta{
+    background-position: top 20% center !important;
+  }
 }
 
 @media (max-width: 991px) {
   body {
     font-size: 16px;
     font-style: 0.88889rem;
+  }
+  .risize-kiss-sky{
+    background-position: right 30% center !important;
   }
 }
 
